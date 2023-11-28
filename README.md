@@ -1,6 +1,6 @@
 # Ticker data 
 
-Project description goes here.
+get like market caps or whatever or like your stuff idk. you wanted price history or whatever.
 
 ## Prerequisites
 
@@ -51,3 +51,6 @@ To exit from the virtual environment, run the following command in your terminal
 ```
 deactivate
 ```
+
+### How to use the programs
+You can just ask me but. `market_cap.py` gets history of market caps for a ticker, `pdr.py` is where all the stuff is, you find out how to use it yeah?
